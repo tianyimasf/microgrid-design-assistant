@@ -1,0 +1,10 @@
+.ipynb_checkpoints
+.DS_store
+
+data/
+dev_files/
+
+data.zip
+dev.html
+lines_of_code.ipynb
+presentation.pptx
